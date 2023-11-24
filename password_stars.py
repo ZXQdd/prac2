@@ -18,5 +18,4 @@ def print_password():
     """ Will print stars """
     print('*' * 10)
 
-
 main()
